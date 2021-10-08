@@ -1,4 +1,4 @@
-### Olá! Meu nom é Hebert Souza, um programador em aprendizagem!
+### Olá! Meu nome é Hebert Vínicius, um programador em aprendizagem!
 - 🔭 Estou trapalhando com Python
 - 🌱 Estudando Python/JavaScript ...
 - 📫 Contate-me no email: hebert.viniciuss@outlook.com.br
