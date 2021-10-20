@@ -1,7 +1,7 @@
 ### Olá, meu nome é Hebert Vínicius, um programador em aprendizagem!
 - 🔭 Estou trapalhando com Python
 - 🌱 Estudando Python/JavaScript ...
-- 📫 Contate-me no email: hebert.viniciuss@outlook.com.br
+- 📫 Contate-me usando o email: hebert.viniciuss@outlook.com.br
 - 😄 Pronouns: ele/dele ...
 
 <div align="center">
