@@ -1,5 +1,5 @@
 ### Olá, meu nome é Hebert Vínicius, um programador em aprendizagem!
-- 🔭 Estou trapalhando com Linux/Delphix/SQL/
+- 🔭 Estou trabalhando com Linux/Delphix/SQL/Python
 - 🌱 Estudando Python/JavaScript ...
 - 📫 Contate-me usando o email: hebert.viniciuss@outlook.com.br
 - 😄 Pronouns: ele/dele ...
