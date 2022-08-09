@@ -1,12 +1,12 @@
-### Olá, meu nome é Hebert Vínicius, um programador em aprendizagem!
+### Olá, meu nome é Hebert Vínicius sou Programador Back-end.
 - 🔭 Estou trabalhando com Linux/Delphix/SQL/Python
-- 🌱 Estudando Python/JavaScript ...
+- 🌱 Estudando Azure/Ruby...
 - 📫 Contate-me usando o email: hebert.viniciuss@outlook.com.br
-- 😄 Pronouns: ele/dele ...
 
 <div align="center">
   <a href="https://github.com/hebertsouzaa">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=hebertsouzaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hebertsouzaa&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertsouzaa&layout=compact&langs_count=7&theme=white"/>
 </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Hebert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,4 +25,6 @@
   <a href = "mailto:hebert.viniciuss@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hebert-souza-bb197516a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+                     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
