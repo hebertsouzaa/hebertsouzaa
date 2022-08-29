@@ -1,4 +1,4 @@
-### Olá, meu nome é Hebert Vínicius sou Programador Back-end.
+### Olá, meu nome é Hebert Vínicius sou Programador Full-Stack.
 - 🔭 Estou trabalhando com Linux/Delphix/SQL/Python
 - 🌱 Estudando Azure/Ruby...
 - 📫 Contate-me usando o email: hebert.viniciuss@outlook.com.br
