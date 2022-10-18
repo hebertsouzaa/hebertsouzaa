@@ -1,5 +1,5 @@
 ### Olá, meu nome é Hebert Vínicius sou Programador Full-Stack.
-- 🔭 Estou trabalhando como Data Analytics com as ferramentas Delphix/ETL/SQL/Python
+- 🔭 Estou trabalhando como Data Analytics com as ferramentas Delphix/ETL/SQL/Python/BI
 - 🌱 Estudando Azure/Intelligent Cloud Services...
 - 📫 Contate-me usando o email: hebert.viniciuss@outlook.com.br
 
