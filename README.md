@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a data engineer.
+python in the vein.
 
 
 ## 🌐 Socials:
