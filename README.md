@@ -39,13 +39,12 @@ Hello! I'm **Hebert Souza**, an enthusiastic **Data Analyst** aspiring to become
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
-
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebertsouzaa&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hebertsouzaa&theme=blueberry&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertsouzaa&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebertsouzaa&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hebertsouzaa&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertsouzaa&theme=radical&hide_border=true&layout=compact&langs_count=6)
 
 </div>
 
