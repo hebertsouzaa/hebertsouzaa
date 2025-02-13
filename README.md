@@ -1,7 +1,7 @@
 # 🚀 About Me
 
 ### 💡 Passionate about Data, AI, and Cloud Computing
-Hello! I'm **Hebert Souza**, an enthusiastic **Data Analyst** aspiring to become a **Data Architect**, **Data Engineer**, and ultimately transition into **Artificial Intelligence**. I have a deep passion for **Python**, **Cloud Computing (Azure & AWS)**, and **Databases**. 
+Hello! I'm **Hebert Souza**, an enthusiastic **Data Analyst** aspiring to become a **Data Engineer**. I have a deep passion for **Python**, **Cloud Computing (Azure & AWS)**, and **Databases**. 
 
 🔹 Strong experience in **SQL, Python, Shell Scripting, and Cloud Services**.<br>
 🔹 Skilled in **Data Processing, ETL, and Automation**.<br>
@@ -52,7 +52,7 @@ Hello! I'm **Hebert Souza**, an enthusiastic **Data Analyst** aspiring to become
 ---
 
 ## 🎯 Visitor Count
-![Visitor Count](https://visitcount.itsvg.in/api?id=hebertsouzaa&icon=2&color=0)
+![Visitor Count](https://komarev.com/ghpvc/?username=hebertsouzaa&style=for-the-badge)
 
 ---
 
