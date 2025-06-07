@@ -29,9 +29,8 @@ I'm a passionate **Data Engineer** with a solid background as a **Data Analyst**
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📬 Email: seuemail@exemplo.com
-- 🔗 [Portfólio ou Blog (se tiver)]
+- 💼 [LinkedIn](https://www.linkedin.com/in/hebert-souza/)
+- 📬 Email: hebert.viniciuss@outlook.com.br
 
 ---
 
