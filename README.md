@@ -1,11 +1,43 @@
 # 🚀 About Me
 
-### 💡 Passionate about Data, AI, and Cloud Computing
-Hello! I'm **Hebert Souza**, an enthusiastic **Data Analyst** aspiring to become a **Data Engineer**. I have a deep passion for **Python**, **Cloud Computing (Azure & AWS)**, and **Databases**. 
+# 👋 Hello! I'm **Hebert Souza**
 
-🔹 Strong experience in **SQL, Python, Shell Scripting, and Cloud Services**.<br>
-🔹 Skilled in **Data Processing, ETL, and Automation**.<br>
-🔹 Exploring **Machine Learning, Deep Learning, and Big Data Technologies**.
+I'm a passionate **Data Engineer** with a solid background as a **Data Analyst**, now focused on building scalable, reliable, and efficient data solutions.
+
+🚀 I love working with **Python**, **Cloud Computing (Azure & AWS)**, and **Databases** to turn raw data into powerful insights.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- 💾 **SQL**, **Python**, **Shell Scripting**
+- ☁️ **Azure**, **AWS**, **Data Lakes**, **Storage Accounts**
+- 🔄 **ETL Pipelines**, **Data Ingestion**, **Automation**
+- 🧰 **Airflow**, **Spark**, **Databricks**, **Docker**, **Kubernetes**
+- 🗄️ **Informatica MDM & IDMC**, **PowerCenter**, **Delphix**
+- 📊 **Data Modeling**, **Data Quality**, **Data Governance**
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 **Machine Learning & Deep Learning**
+- 🌐 **Big Data Technologies**
+- 🧠 **AI Engineering & MLOps**
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📬 Email: seuemail@exemplo.com
+- 🔗 [Portfólio ou Blog (se tiver)]
+
+---
+
+> _“Data is the new oil – I just build the pipelines to refine it.”_
+
+
 
 ---
 
