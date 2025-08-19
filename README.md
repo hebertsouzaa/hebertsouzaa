@@ -1,88 +1,87 @@
-# 🚀 About Me
+# 👋 Hello, I'm **Hebert Souza**  
 
-# 👋 Hello! I'm **Hebert Souza**
+💻 Passionate **Data Engineer** with strong experience as a **Data Analyst**, now focused on designing **scalable, reliable, and efficient data solutions**.  
 
-I'm a passionate **Data Engineer** with a solid background as a **Data Analyst**, now focused on building scalable, reliable, and efficient data solutions.
-
-🚀 I love working with **Python**, **Cloud Computing (Azure & AWS)**, and **Databases** to turn raw data into powerful insights.
+🚀 I specialize in **Python, SQL, Cloud Computing (Azure & AWS), and Databases** — transforming raw data into **powerful insights**.  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies  
 
-- 💾 **SQL**, **Python**, **Shell Scripting**
-- ☁️ **Azure**, **AWS**, **Data Lakes**, **Storage Accounts**
-- 🔄 **ETL Pipelines**, **Data Ingestion**, **Automation**
-- 🧰 **Airflow**, **Spark**, **Databricks**, **Docker**, **Kubernetes**
-- 🗄️ **Informatica MDM & IDMC**, **PowerCenter**, **Delphix**
-- 📊 **Data Modeling**, **Data Quality**, **Data Governance**
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 **Machine Learning & Deep Learning**
-- 🌐 **Big Data Technologies**
-- 🧠 **AI Engineering & MLOps**
+- 💾 **SQL | Python | Shell Scripting**  
+- ☁️ **Azure | AWS | Data Lakes | Storage Accounts**  
+- 🔄 **ETL Pipelines | Data Ingestion | Automation**  
+- ⚡ **Airflow | Spark | Databricks | Docker | Kubernetes**  
+- 🗄️ **Informatica MDM & IDMC | PowerCenter | Delphix**  
+- 📊 **Data Modeling | Data Quality | Data Governance**  
 
 ---
 
-## 📫 Let’s Connect
+## 🌱 Currently Exploring  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hebert-souza/)
-- 📬 Email: hebert.viniciuss@outlook.com.br
-
----
-
-> _“Data is the new oil – I just build the pipelines to refine it.”_
-
-
+- 🤖 **Machine Learning & Deep Learning**  
+- 🌐 **Big Data Ecosystem**  
+- 🧠 **AI Engineering & MLOps**  
 
 ---
 
-## 🌎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hebert-souza/)  
+## 📫 Let’s Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hebert-souza/)  
+- 📬 Email: **hebert.viniciuss@outlook.com.br**  
 
 ---
 
-## 🛠 Tech Stack
-
-### 🖥️ Programming & Scripting
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-
-### 🌐 Web & Others
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
----
-## 📊 GitHub Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebertsouzaa&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hebertsouzaa&theme=radical&hide_border=true)
-
-</div>
+> _“Data is the new oil – I build the pipelines to refine it.”_  
 
 ---
 
-## 🎯 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=hebertsouzaa&style=for-the-badge)
+## 🌎 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hebert-souza/)  
 
 ---
 
-> "Data is the new oil, but refining it is what truly creates value." 🚀
+## 🛠 Tech Stack  
+
+### 🖥️ Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff00)  
+![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff00)  
+
+### ☁️ Cloud & DevOps  
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff00)  
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00ff00)  
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00)  
+
+### 🗄️ Databases & Backend  
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff00)  
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=00ff00)  
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00ff00)  
+
+### 🌐 Web & Tools  
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff00)  
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=00ff00)  
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00ff00)  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebertsouzaa&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hebertsouzaa&theme=chartreuse-dark&hide_border=true)  
+
+</div>  
+
+---
+
+## 🎯 Visitor Count  
+![Visitor Count](https://komarev.com/ghpvc/?username=hebertsouzaa&style=for-the-badge&color=00ff00)  
+
+---
+
+> ⚡ “Data is the new oil, but refining it is what truly creates value.” ⚡ 
