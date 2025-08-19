@@ -15,13 +15,6 @@
 - 🗄️ **Informatica MDM & IDMC | PowerCenter | Delphix**  
 - 📊 **Data Modeling | Data Quality | Data Governance**  
 
----
-
-## 🌱 Currently Exploring  
-
-- 🤖 **Machine Learning & Deep Learning**  
-- 🌐 **Big Data Ecosystem**  
-- 🧠 **AI Engineering & MLOps**  
 
 ---
 
@@ -42,32 +35,6 @@
 
 ---
 
-## 🛠 Tech Stack  
-
-### 🖥️ Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff00)  
-![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff00)  
-
-### ☁️ Cloud & DevOps  
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff00)  
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00ff00)  
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00)  
-
-### 🗄️ Databases & Backend  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff00)  
-![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=00ff00)  
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00ff00)  
-
-### 🌐 Web & Tools  
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff00)  
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=00ff00)  
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00ff00)  
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">  
@@ -79,8 +46,16 @@
 
 ---
 
-## 🎯 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=hebertsouzaa&style=for-the-badge&color=00ff00)  
+## 🚀 Featured Projects  
+
+- [ETL Pipeline with Airflow & Spark](https://github.com/hebertsouzaa/etl-airflow-spark)  
+  Scalable data pipeline for batch and streaming ingestion using **Airflow + Spark**.  
+
+- [Data Quality Framework](https://github.com/hebertsouzaa/data-quality-framework)  
+  Automated framework for **data validation, profiling, and governance**.  
+
+- [MDM Integration with Informatica](https://github.com/hebertsouzaa/mdm-integration)  
+  Master Data Management project with **Informatica & SQL Server**.
 
 ---
 
