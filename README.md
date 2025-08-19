@@ -25,10 +25,6 @@
 
 ---
 
-> _“Data is the new oil – I build the pipelines to refine it.”_  
-
----
-
 ## 🌎 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hebert-souza/)  
