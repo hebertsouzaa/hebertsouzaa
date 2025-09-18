@@ -27,18 +27,7 @@
 
 ## 🌎 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hebert-souza/)  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebertsouzaa&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hebertsouzaa&theme=chartreuse-dark&hide_border=true)  
-
-</div>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hebert-souza/)   
 
 ---
 
